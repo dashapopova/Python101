@@ -34,7 +34,7 @@ Sut, 12.10 -- 15.00, room 504
     <tr>
     <td>15.09</td>
     <td>Control structures</td>
-    <td>HW2</td>
+    <td><a href="./python101hw2.py">HW2</a></td>
     <td>22.09 12:00</td>
     <td></td>
   </tr>
