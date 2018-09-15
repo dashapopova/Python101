@@ -27,7 +27,7 @@ Sut, 12.10 -- 15.00, room 504
     <td>8.09.</td>
     <td> 1. Interacting with Python and basic functions<br>
       2. Datatypes and variables </td>
-    <td><a href="./Homeworks/HW1.md">HW1</a></td>
+    <td><a href="./Python101_HW1.pdf">HW1</a></td>
     <td>17.09 21:00</td>
     <td></td>
   </tr>
