@@ -21,7 +21,7 @@ Sut, 12.10 -- 15.00, room 504
     <th>Seminar</th>
     <th>Homework</th>
     <th>Due date</th>
-    <th>Comments/Reference</th>
+    <th>Reference</th>
   </tr>
   <tr>
     <td>8.09.</td>
@@ -29,7 +29,14 @@ Sut, 12.10 -- 15.00, room 504
       2. Datatypes and variables </td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
     <td>17.09 21:00</td>
-    <td></td>
+    <td>1. <a href="https://docs.python.org/3.6/library/stdtypes.html#typesnumeric">numeric types</a><br>
+      2. <a href="https://docs.python.org/3.6/library/stdtypes.html#string-methods">strings</a><br>
+      3. <a href="https://docs.python.org/3.6/tutorial/datastructures.html">lists</a><br>
+      4. <a href="https://docs.python.org/3.6/tutorial/datastructures.html#tuples-and-sequences">tuples</a><br>
+      5. <a href="https://docs.python.org/3.6/tutorial/datastructures.html#dictionaries">dictionaries</a><br>
+      6. <a href="https://docs.python.org/3.6/library/stdtypes.html#boolean-operators">booleans</a><br>
+      7. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a><br>
+    </td>
   </tr>
     <tr>
     <td>15.09</td>
