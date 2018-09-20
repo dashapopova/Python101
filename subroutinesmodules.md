@@ -122,8 +122,19 @@ the help system. For example:
 >>> help(re)
 ...
 ```
-
-
+When a program is loaded in directly, rather than imported from another program:
+```python
+#module that can run on its own
+#a variable
+myVar = ’hats and lemons’
+#a function
+def myFunc(s):
+  return len(s)
+#if this is loaded on its own...
+if __name__ == ’__main__’:
+#do this
+  print(myFunc(myVar))
+```
 
 
 
