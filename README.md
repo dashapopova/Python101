@@ -29,7 +29,7 @@ Sut, 12.10 -- 15.00, room 504
       2. Datatypes and variables </td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
     <td>17.09 21:00</td>
-    <td>[Чат 2-ой группы](https://t.me/joinchat/ADMP3VFYTP7EoizUYT2frg)</td>
+    <td>[почта](mailto:daschapopowa@gmail.com)</td>
   </tr>
     <tr>
     <td>15.09</td>
