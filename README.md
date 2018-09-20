@@ -50,7 +50,7 @@ Sut, 12.10 -- 15.00, room 504
   </tr>
   <tr>
     <td>22.09</td>
-    <td>1. Input--Output<br>
+    <td>1.<a href="./input-output.md">Input--Output</a><br>
       2. Subroutines and modules </td>
     <td><a href="./python101hw3.py">HW3</a></td>
     <td>29.09 12:00</td>
