@@ -21,7 +21,7 @@ Sut, 12.10 -- 15.00, room 504
     <th>Seminar</th>
     <th>Homework</th>
     <th>Due date</th>
-    <th>Comments</th>
+    <th>Comments/Reference</th>
   </tr>
   <tr>
     <td>8.09.</td>
@@ -29,7 +29,7 @@ Sut, 12.10 -- 15.00, room 504
       2. Datatypes and variables </td>
     <td><a href="./Python101_HW1.pdf">HW1</a></td>
     <td>17.09 21:00</td>
-    <td></td>
+    <td> [numeric types] (https://docs.python.org/3.6/library/stdtypes.html#typesnumeric)</td>
   </tr>
     <tr>
     <td>15.09</td>
