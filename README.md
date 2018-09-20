@@ -34,8 +34,7 @@ Sut, 12.10 -- 15.00, room 504
       3. <a href="https://docs.python.org/3.6/tutorial/datastructures.html">lists</a><br>
       4. <a href="https://docs.python.org/3.6/tutorial/datastructures.html#tuples-and-sequences">tuples</a><br>
       5. <a href="https://docs.python.org/3.6/tutorial/datastructures.html#dictionaries">dictionaries</a><br>
-      6. <a href="https://docs.python.org/3.6/library/stdtypes.html#boolean-operators">booleans</a><br>
-      7. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a><br>
+      6. <a href="https://docs.python.org/3.6/library/stdtypes.html#boolean-operators">booleans</a>
     </td>
   </tr>
     <tr>
@@ -43,7 +42,9 @@ Sut, 12.10 -- 15.00, room 504
     <td>Control structures</td>
     <td><a href="./python101hw2.py">HW2</a></td>
     <td>22.09 12:00</td>
-    <td></td>
+    <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
+      2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a>
+      </td>
   </tr>
   <tr>
     <td>22.09</td>
