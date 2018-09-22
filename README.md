@@ -43,13 +43,13 @@ Sut, 12.10 -- 15.00, room 504
     <td><a href="./python101hw2.py">HW2</a><br>
       <a href="./python101hw2comments.md">HW2 Comments</a>
       </td>
-    <td>22.09 12:00</td>
+    <td>29.09 12:00</td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
       2. <a href="https://docs.python.org/3.6/library/functions.html">built-in functions</a>
       </td>
   </tr>
   <tr>
-    <td>22.09</td>
+    <td>22.09, 24.09</td>
     <td>1. <a href="./input-output.md">Input--Output</a><br>
       2. <a href="./subroutinesmodules.md">Subroutines and modules</a></td>
     <td>1. <a href="./python101hw3.py">HW3</a><br>
