@@ -30,9 +30,18 @@ values.
 Consider doing it with the in-line function sum, which facilitates a fast and readable one-line version of the function.
 """
 
-def mean(vals):
-    """Return the mean of the values in vals, presupposed to be 
-    numeric (float, int, or long)."""
+def mean(values):
+    total = 0
+    length = len(values)
+    for i in range(length):
+        total + values[i]
+    total = sum(values)
+    average = total/length
+    return average
+x = [1, 3.6, 12.2, 15.1]
+
+n = mean(x)
+print(n)
 
 
 """===================================================================
@@ -52,9 +61,30 @@ float(len(vals)) is fine.
 To get the square root of a float x, using math.sqrt(x)
 """
 
-def sd(vals):
-    """Return the standard deviation of the values in vals, 
-    presupposed to be numeric (float, int, or long)."""
+import math
+
+def mean(values):
+    return sum(values)*1.0 / len(values)
+
+def stanDev(values):
+    length = len(values)
+
+    m = mean(values)
+
+    total_sum = 0
+
+    for i in range(length):
+
+        total_sum += (values[i] - m)**2
+
+    u_rt = total_sum*1.0 / float(length) 
+
+    return math.sqrt(u_rt)
+
+x = [1, 2, 4, 1, 2, 42, 12]
+stan_dev = stanDev(x)
+
+print(stanDev(x))
 
 """===================================================================
 3   [1 point]
@@ -68,19 +98,34 @@ For details on calculating the z-score, see
 http://en.wikipedia.org/wiki/Z_score
 """
 
-"""def zscore(vals):
-    This function is radical: it will replace vals with zscored vals.
-    m = mean(vals)
-    s = sd(vals)
-    if sd(vals) > 0:
-        for x in range(0,len(vals)):
-            vals[x] = (vals[x] - m) / s
-        return vals
-    else:
-        return 'n/a'"""
+import math
 
-def zscore(vals):
-    """Return the z-scored version of vals."""
+def mean(values):
+    return sum(values)*1.0 / len(values)
+
+def stanDev(values):
+    length = len(values)
+
+    m = mean(values)
+
+    total_sum = 0
+
+    for i in range(length):
+
+        total_sum += (values[i] - m)**2
+
+    u_rt = total_sum*1.0 / length
+
+    return math.sqrt(u_rt)
+
+def zscore(values):
+    s = stanDev(values)
+    if s(values) > 0:
+        for x in range(0,len(values)):
+            values[x] = (values[x] - m) / s
+        return values[x]
+    else:
+        return 'n/a'
 
 """===================================================================
 4
@@ -140,51 +185,12 @@ no modifications.
 """
 
 def csv_parser(s):
-    """Parses the string s into lines, and then parses those lines by
-    splitting on the comma and converting the numerical data to int.
-    The output is a list of lists of subject data."""
-
-    # Data is our output. It will be a list of lists.
-
-    # Split csv into lines and store them in a list called 'lines'.
-    
-    # Remove the first element from lines, so that you have only the data lines left.
-    
-    # At this stage, we loop through the list called lines.
-    # As you loop
-    #     i. split each line on the commas;
-    #    ii. convert the Subject variable to int.
-    #   iii. convert the Height variable to float.
-    #    iv. add to data a list consisting of this line's Subject, Height, and Occupation values 
-
-def csv_parser_test():
-    """Display the output of csv_parser(myspreadsheet) and
-    test it a little bit."""
-    data = csv_parser(myspreadsheet)
-    print 'Your data object:'
-    pp = pprint.PrettyPrinter(indent=4)
-    pp.pprint(data)      
-    # Did your parser work?
-    for row_num, row in enumerate(data):
-        try:
-            assert len(row) == 3
-        except AssertionError:
-            print "Row %s seems to be misparsed; its length is %s" % (row_num, len(row))
-    # Check on one of the values:
-    try:
-        assert data[4][2] == 'Linguist'
-    except AssertionError:
-        print "Error: data[4][2] should equal 'Linguist'; actual value is %s" % data[4][2]
-    # Did you remember your int conversions?
-    try:
-        assert isinstance(data[0][0], int)
-    except AssertionError:
-        print "Error: data[0][0] should be an int"
-    # Did you remember your float conversions?
-    try:
-        assert isinstance(data[6][1], float)
-    except AssertionError:
-        print "Error: data[6][1] should be a float"
+ results = []
+with open("names.csv") as csvfile:
+    reader = csv.reader(csvfile) 
+    for row in reader: 
+        results.append(row)
+print(results)
             
 """===================================================================
 4.2  [1 point]
