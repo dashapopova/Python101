@@ -42,7 +42,7 @@ Sut, 12.10 -- 15.00, room 504
     <td>Control structures</td>
     <td><a href="./python101hw2.py">HW2</a><br>
       <a href="./python101hw2comments.md">HW2 Comments</a><br>
-      <a href="./python101hw2tips.py">HW2 questions 1, 2, 4.1 Tips</a>
+      <a href="./python101hw2tips.py">HW2 Qs 1, 2, 4.1 Tips</a>
       </td>
     <td>29.09 12:00</td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
@@ -56,7 +56,7 @@ Sut, 12.10 -- 15.00, room 504
     <td>1. <a href="./python101hw3.py">HW3</a><br>
     2. <a href="./alice.txt">Alice file</a><br>
     3. <a href="./googlebooks.txt">Googlebooks file</a><br>
-    4. <a href="./python101hw3tips.py">HW3</a></td>
+    4. <a href="./python101hw3tips.py">HW3 Qs 1, 2, 4 Tips</a></td>
     <td>29.09 12:00</td>
     <td></td>
    </tr>
