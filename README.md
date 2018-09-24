@@ -55,7 +55,8 @@ Sut, 12.10 -- 15.00, room 504
       2. <a href="./subroutinesmodules.md">Subroutines and modules</a></td>
     <td>1. <a href="./python101hw3.py">HW3</a><br>
     2. <a href="./alice.txt">Alice file</a><br>
-    3. <a href="./googlebooks.txt">Googlebooks file</a></td>
+    3. <a href="./googlebooks.txt">Googlebooks file</a><br>
+    4. <a href="./python101hw3tips.py">HW3</a></td>
     <td>29.09 12:00</td>
     <td></td>
    </tr>
