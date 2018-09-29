@@ -1,6 +1,6 @@
 ## Homework 4 Assignment
 
-### Task 1: Initial Consonant Clusters
+### Task 1: Initial Consonant Clusters \[7 points\]
 
 Your task is to show me how to use pattern matching to investigate the distribution of
 word-initial consonant clusters in *Alice* (alice.txt). The basic question is how frequent different
@@ -21,11 +21,20 @@ the case of *c*, but sometimes it is not, as in the case of *ch*. You should set
 the mapping of orthography to precise phonological forms, except insofar as you
 need to decide what a cluster is.
 
-1. apply the `gutenberg_file_wc(filename)` function to alice.txt
-2.   
+You will need to do the following (or something which analogous to the following):
+
+1. apply the `gutenberg_file_wc(filename)` (HW3 Q1,2) and the `view_wc(d)` (HW3 Q3) functions to alice.txt -- up to 2 points;
+2. try to search for (word) initial consonant clusters using regular expression(s) (Don't forget to `import re` at the beginning of your program) -- up to 2 points;
+3. do the counts for all the clusters that you have identified -- 2 points; 
+4. print the clusters with the counts -- 1 point.
    
-   
-### Task 2
+### Task 2 \[3 points\]
+
+These tasks are designed to start you thinking about your project: you don't need to figure out everything by the next Saturday, but I want to see that you are thinking about your project. And remember that, unfortunately, our course will end in this module, so the deadline for the final project will be October, 20th.
+
+1. State your final project idea. Say a few words about why you are interested in doing this project. -- 1 point
+2. Split your project into tasks that you would like to accomplish -- 1 point
+3. Make the first step (e.g., if you opt for Funky Dictionary, you should list 10 potential entries for the dictionary; if you choose to write a tokenizer for a particular language, select a text file that you will use to train your tokenizer on) -- 1 point.
 
 #### Final Project Suggestions
 
