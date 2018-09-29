@@ -86,7 +86,7 @@ Sut, 12.10 -- 15.00, room 504
     <td>20.10</td>
     <td>Final project presentations</td>
     <td></td>
-    <td>:joy:Final project is due:triumph:</td>
+    <td>Final project is due:triumph:</td>
     <td></td>
   </tr>
 </table>
