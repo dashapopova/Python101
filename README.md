@@ -57,7 +57,8 @@ Sut, 12.10 -- 15.00, room 504
     <td>1. <a href="./python101hw3.py">HW3</a><br>
     2. <a href="./alice.txt">Alice file</a><br>
     3. <a href="./googlebooks.txt">Googlebooks file</a><br>
-    4. <a href="./python101hw3tips.py">HW3 Qs 1, 2, 4 Tips</a></td>
+    4. <a href="./python101hw3tips.py">HW3 Qs 1, 2, 4 Tips</a><br>
+    5. <a href="./python101hw2answers.py">HW3 Solutions</a></td>
     <td>29.09 12:00</td>
     <td><a href="./onfunctions.md">On functions</a>
    </td>
