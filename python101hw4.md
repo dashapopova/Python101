@@ -1,4 +1,4 @@
-## Homework 4 Assignment
+## Homework 4 Assignment -- due 6.10 by 12:00
 
 ### Task 1: Initial Consonant Clusters \[7 points\]
 
@@ -38,6 +38,10 @@ These tasks are designed to start you thinking about your project: you don't nee
 
 #### Final Project Suggestions
 
-##### Funky dictionary
+##### Funky dictionary -- a group project
+
+Create a dictionary of funky Russian words -- slang, expressives, old-fashioned words, fairytale characters. If the word is already in the dictionary, the user will be able to see its definition and rate(!) it. If the word is not in the dictionary, the user should have an option of adding it and its definition to the dictionary. The user should have an option of seeing the words with the top most ratings. May be, you could also add the *fortune cookie word game* -- the user gets a randomly chosen word as a sort of prophecy for the day.
 
 ##### Tokenizer 2.0
+
+Write a more advanced version of the tokenizer that you have written for HW3 question 1. For example, you could make use of regular expressions that we have learnt today. You can choose any language, including English, but if you choose English, you will have to write a truly decent version of a tokenizer (and you won't be allowed to just import existing tokenizer modules for English).
