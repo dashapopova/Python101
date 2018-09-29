@@ -21,9 +21,10 @@ the case of *c*, but sometimes it is not, as in the case of *ch*. You should set
 the mapping of orthography to precise phonological forms, except insofar as you
 need to decide what a cluster is.
 
-1. open the alice.txt file
-2. 
-
+1. apply the `gutenberg_file_wc(filename)` function to alice.txt
+2.   
+   
+   
 ### Task 2
 
 #### Final Project Suggestions
