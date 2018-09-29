@@ -30,7 +30,7 @@ You will need to do the following (or something which is analogous to the follow
    
 ### Task 2 \[3 points\]
 
-These tasks are designed to start you thinking about your project: you don't need to figure out everything by the next Saturday, but I want to see that you are thinking about your project. And remember that, unfortunately, our course will end in this module, so the deadline for the final project will be October, 20th.
+These tasks are designed to start you thinking about your project: you don't need to figure out everything by next Saturday, but I want to see that you are thinking about your project. And remember that, unfortunately, our course will end in this module, so the deadline for the final project will be October, 20th.
 
 1. State your final project idea. Say a few words about why you are interested in doing this project. -- 1 point
 2. Split your project into tasks that you would like to accomplish -- 1 point
