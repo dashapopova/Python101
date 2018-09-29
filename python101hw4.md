@@ -21,7 +21,7 @@ the case of *c*, but sometimes it is not, as in the case of *ch*. You should set
 the mapping of orthography to precise phonological forms, except insofar as you
 need to decide what a cluster is.
 
-You will need to do the following (or something which analogous to the following):
+You will need to do the following (or something which is analogous to the following):
 
 1. apply the `gutenberg_file_wc(filename)` (HW3 Q1,2) and the `view_wc(d)` (HW3 Q3) functions to alice.txt -- up to 2 points;
 2. try to search for (word) initial consonant clusters using regular expression(s) (Don't forget to `import re` at the beginning of your program) -- up to 2 points;
