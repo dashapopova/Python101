@@ -42,7 +42,6 @@ Sut, 12.10 -- 15.00, room 504
     <td>Control structures</td>
     <td><a href="./python101hw2.py">HW2</a><br>
       <a href="./python101hw2comments.md">HW2 Comments</a><br>
-      <a href="./python101hw2tips.py">HW2 Qs 1, 2, 4.1 Tips</a><br>
       <a href="./python101hw2answers.py">HW2 Solutions</a>
       </td>
     <td>29.09 12:00</td>
@@ -57,7 +56,6 @@ Sut, 12.10 -- 15.00, room 504
     <td><a href="./python101hw3.py">HW3</a><br>
     <a href="./alice.txt">Alice file</a><br>
     <a href="./googlebooks.txt">Googlebooks file</a><br>
-    <a href="./python101hw3tips.py">HW3 Qs 1, 2, 4 Tips</a><br>
     <a href="./python101hw3answers.py">HW3 Solutions</a></td>
     <td>29.09 12:00</td>
     <td><a href="./onfunctions.md">On functions</a>
