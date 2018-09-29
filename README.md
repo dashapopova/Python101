@@ -59,15 +59,15 @@ Sut, 12.10 -- 15.00, room 504
     3. <a href="./googlebooks.txt">Googlebooks file</a><br>
     4. <a href="./python101hw3tips.py">HW3 Qs 1, 2, 4 Tips</a></td>
     <td>29.09 12:00</td>
-    <td><a href="./onfunctions.md">On functions</a><br>
-    Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
+    <td><a href="./onfunctions.md">On functions</a>
+   </td>
    </tr>
     <tr>
     <td>29.09</td>
     <td>Regular expressions</td>
-    <td></td>
+    <td>HW4</td>
     <td>6.10 12:00</td>
-    <td></td>
+    <td> Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
     <tr>
     <td>6.10</td>
