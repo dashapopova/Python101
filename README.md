@@ -42,7 +42,8 @@ Sut, 12.10 -- 15.00, room 504
     <td>Control structures</td>
     <td><a href="./python101hw2.py">HW2</a><br>
       <a href="./python101hw2comments.md">HW2 Comments</a><br>
-      <a href="./python101hw2tips.py">HW2 Qs 1, 2, 4.1 Tips</a>
+      <a href="./python101hw2tips.py">HW2 Qs 1, 2, 4.1 Tips</a><br>
+      <a href="./python101hw2answers.py">HW2 Solutions</a>
       </td>
     <td>29.09 12:00</td>
     <td> 1. <a href="https://docs.python.org/3.6/tutorial/controlflow.html">control flow tools</a><br>
