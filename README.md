@@ -64,7 +64,7 @@ Sut, 12.10 -- 15.00, room 504
     <tr>
     <td>29.09</td>
     <td><a href="./regexpr.md">Regular expressions</a></td>
-    <td>HW4</td>
+    <td><a href="./python101hw4.md">HW4</a></td>
     <td>6.10 12:00</td>
     <td> Regular expressions cheat sheet (https://www.rexegg.com/regex-quickstart.html)</td>
   </tr>
