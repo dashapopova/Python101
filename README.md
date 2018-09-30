@@ -2,6 +2,8 @@
 
 Introductory seminars for Linguistics Master students
 
+![](https://kateennals.files.wordpress.com/2016/08/boa-constrictor-little-prince.jpg)
+
 ### Hours
 
 Sut, 12.10 -- 15.00, room 504
