@@ -91,4 +91,4 @@ Sut, 12.10 -- 15.00, room 504
   </tr>
 </table>
 
-![]https://kateennals.files.wordpress.com/2016/08/boa-constrictor-little-prince.jpg
+![](https://kateennals.files.wordpress.com/2016/08/boa-constrictor-little-prince.jpg)
