@@ -80,14 +80,16 @@ Sut, 12.10 -- 15.00, room 504
     <td></td>
   </tr>
     <tr>
-    <td>13.10 3 slots</td>
+    <td>13.10<br>
+      3 slots</td>
     <td>Internet data II. Visualization</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
     <tr>
-    <td>20.10 3 slots</td>
+    <td>20.10<br>
+      3 slots</td>
     <td>Final project presentations</td>
     <td></td>
     <td>Final project is due:triumph:</td>
