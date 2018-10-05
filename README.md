@@ -81,7 +81,7 @@ Sut, 12.10 -- 15.00, room 504
   </tr>
     <tr>
     <td>13.10</td>
-    <td>Internet data</td>
+    <td>Internet data II. Visualization</td>
     <td></td>
     <td></td>
     <td></td>
