@@ -76,7 +76,7 @@ Sut, 12.10 -- 15.00, room 504
   <a href="./markdown.md">Markdown</a><br>
   Jupiter notebook</td>
     <td></td>
-    <td></td>
+    <td><a href="./FPGuidelines.md">Final Project Guidelines</a></td>
     <td></td>
   </tr>
     <tr>
