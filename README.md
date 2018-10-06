@@ -71,7 +71,7 @@ Sut, 12.10 -- 15.00, room 504
     <tr>
     <td>6.10</td>
     <td><a href="./TextManipulation.ipynb">Text manipulation</a><br>
-      <a href="./InternetData.ipynb">Internet data: urllib</a><br>
+      <a href="./InternetData(1).ipynb">Internet data: urllib</a><br>
   <a href="./lxml_bs4.ipynb">Parsing HTML</a><br>
   <a href="./markdown.md">Markdown</a><br>
   Jupiter notebook</td>
