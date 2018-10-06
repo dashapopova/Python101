@@ -1,27 +1,25 @@
 ## Markdown
 
-**Markdown** -- это упрощенный язык разметки, который преобразует \(почти\) обычный текст в html-страницу. Создан в 2004 году Джоном Грубером и Аароном Шварцем, затем был дополнен и адаптирован для различных приложений.
+**Markdown** is a lightweight markup language with plain text formatting syntax, which converts text into an html-page. It was created in 2004 by John Gruber in collaboration with Aaron Schwartz, to enable people "to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)".
 
-Markdown-файлы имеют расширение .md или .markdown
+Markdown-files have .md or .markdown extensions.
 
-Ниже в серых блоках содержится то, как выглядит текст на стадии разметки, сразу после блока находится результат.
+#### 1. Formatting in Markdown
 
-#### 1. Форматирование в Markdown
+Headings in Markdown are marked with \#:
 
-Заголовки в Markdown выделяются решетками \#:
-
-\#              заголовок 1 уровня  
-\#\#            заголовок 2 уровня  
+\#                
+\#\#             
 ...  
-\#\#\#\#\#\#    заголовок 6 уровня
+\#\#\#\#\#\#    
 
-Чтобы выделить текст курсивом, нужно поставить в начале и в конце фрагмента текста \* или \_ \(не отделяя пробелом\):
+Cursive: \* or \_ \(without spaces\) at the beginning and the end of the fragment:
 
 ```
-*звезды* или _нижние подчеркивания_
+*stars* or _stars_
 ```
 
-_звезды_ или _нижние подчеркивания_
+_stars_ or _stars_
 
 Чтобы сделать текст жирным, нужно поставить в начале и в конце фрагмента текста \*\* или \_\_ \(не отделяя пробелом\):
 
