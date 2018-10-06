@@ -15,7 +15,8 @@ c) reformulate the problem in terms of functions that you plan to code (2p.); d)
 e) state what your code accomplishes (2p.); f) state the program limitations and possible future improvements (2p.).
 
 3. A 7 min. oral presentation (4 points) + 3 min. for questions:
-a clear and well-structured presentation of the write-up.
+
+A clear and well-structured presentation of the write-up.
 You get 1 point for clarity, 1 point for structure, 1 point for your ability to answer questions about your presentation
 and 1 point for your questions about other people's work.
 
