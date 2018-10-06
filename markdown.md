@@ -29,7 +29,7 @@ To make the text bold: \*\* или \_\_ \(no spaces\):
 
 **две звезды** или **два нижних подчеркивания**
 
-To underline text: ~~ \(no spaces\):
+To cross out text: ~~ \(no spaces\):
 
 ```
 ~~две тильды~~
