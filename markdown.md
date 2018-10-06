@@ -21,7 +21,7 @@ Cursive: \* or \_ \(without spaces\) at the beginning and the end of the fragmen
 
 _stars_ or _stars_
 
-Чтобы сделать текст жирным, нужно поставить в начале и в конце фрагмента текста \*\* или \_\_ \(не отделяя пробелом\):
+To make the text bold: \*\* или \_\_ \(no spaces\):
 
 ```
 **две звезды** или __два нижних подчеркивания__
@@ -29,7 +29,7 @@ _stars_ or _stars_
 
 **две звезды** или **два нижних подчеркивания**
 
-Чтобы перечеркнуть текст, используйте ~~ в начале и в конце \(не отделяя пробелом\):
+To underline text: ~~ \(no spaces\):
 
 ```
 ~~две тильды~~
@@ -37,9 +37,7 @@ _stars_ or _stars_
 
 ~~две тильды~~
 
-###### Списки
-
-Нумерованные списки задаются так \(уровни можно задать отступами\):
+###### Lists:
 
 ```
 1. первый элемент
@@ -55,7 +53,7 @@ _stars_ or _stars_
 4. четвертый элемент
 5. пятый элемент
 
-Маркированные списки задаются с помощью дефисов, астерисков или плюсов \(уровни можно задать отступами\):
+Non-enumerations:
 
 ```
 + первый элемент
@@ -71,11 +69,9 @@ _stars_ or _stars_
   * четвертый элемент
   * пятый элемент
 
-#### 2. Объекты
+#### 2. Objects
 
-###### Ссылки
-
-Ссылки и адреса электронной почты можно вставить без всего или в угловых скобках:
+###### Links
 
 ```
 <https://www.markdownguide.org>  
@@ -91,7 +87,7 @@ eee@mail.ru
 [eee@mail.ru](mailto:eee@mail.ru)  
 eee@mail.ru
 
-Если нужно сделать гиперссылку, то она оформляется так:
+Hyperlinks:
 
 ```
 [текст](https://www.markdownguide.org)
@@ -99,21 +95,21 @@ eee@mail.ru
 
 [текст](https://www.markdownguide.org)
 
-Можно добавить всплывающий при наведении комментарий:
+To add a comment:
 
 ```
-[текст](https://www.markdownguide.org "это поможет")
+[текст](https://www.markdownguide.org "this will help")
 ```
 
-[текст](https://www.markdownguide.org "это поможет")
+[текст](https://www.markdownguide.org "this will help")
 
-###### Картинки
+###### Pictures
 
-Чтобы вставить картинку, нужно написать следующую строку \(без пробелов\):
+To insert a picture:
 
-!\[\]\(ссылка на картинку\)
+!\[\]\(a link to the picture\)
 
-Например:
+For exmaple:
 
 ```
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
@@ -121,10 +117,7 @@ eee@mail.ru
 
 ![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
 
-###### Таблицы
-
-Строки в таблице разделяются переходом на новую строку, столбцы вертикальной чертой \(\|\)  
-Между заголовком и телом таблицы вставляется строка с --- в каждой ячейке. Выравнивание задается положением двоеточия:
+###### Tables
 
 ```
 1|2|3
@@ -146,21 +139,15 @@ eee@mail.ru
 | да | не знаю | нет |
 | не знаю | да | нет |
 
-#### 3. Где можно использовать Markdown?
+#### 3. Where can I use Markdown?
 
 * GitHub
 * Telegram
 * Tumblr
 * R, Python ...
 
-#### 4. Полезные \(и не очень\) ссылки
+#### 4. Some references
 
-[Изначальная страница проекта](https://daringfireball.net/projects/markdown/syntax) \(сейчас неактивна\)  
-[Наиболее полное руководство](https://www.markdownguide.org)  
+[The fullest notation](https://www.markdownguide.org)  
 [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) \(сжатый конспект\)  
-[Help от гитхаба](https://help.github.com/categories/writing-on-github/)  
-[Фичи для продвинутых от гитхаба](https://guides.github.com/features/mastering-markdown/)  
-[Вдохновляющий набор расширений и приложений, где используется Markdown](https://github.com/mundimark/awesome-markdown) \(там есть, в том числе, про то, как делать презентации и документы, а также писать красивые письма\)  
-[Курс на codeacademy](https://www.codecademy.com/en/courses/web-intermediate-en-Bw3bg/0/1)
-
-Спасибо за хэндаут Оксане Дерезе!
+[Help on github](https://help.github.com/categories/writing-on-github/)  
