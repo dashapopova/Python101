@@ -24,5 +24,6 @@ and 1 point for your questions about other people's work.
 ### Timeline
 
 13.10 -- consultation (15.30 - 16.30)
+
 20.10 -- oral presentations (14.30 - 16.30), code and the write-up are due by 12.00 -- **no late work is accepted**
 
