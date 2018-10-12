@@ -82,7 +82,7 @@ Sut, 12.10 -- 15.00, room 504
     <tr>
     <td>13.10<br>
       3 slots</td>
-    <td>Internet data II. Visualization</td>
+    <td><a href="./visualization(1).ipynb">Visualization</a></td>
     <td></td>
     <td></td>
     <td></td>
