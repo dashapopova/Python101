@@ -4,7 +4,7 @@
 
 Mystem is a little bit more than a simple stemmer, it has part-of-speech tagging, deals with homonymy, assigns probabilities to different parsings.
 
-You can download mystem here: https://tech.yandex.ru/mystem/ and you can find its documentation here: https://tech.yandex.ru/mystem/doc/index-docpage/. You don't have to install mystem, just download it to your computer. To run mystem open the Terminal (Mac) or the command line (Windows). In Terminal type: `$ mystem textfile newtextfile`: *mystem* will parse the text in *textfile* into a new file that it creates automatically *newtextfile*. In cmd type: `>C:\mystem.exe C:\textfile.txt C:\newtextfile.txt`, if the text file and mystem are saved on C.
+You can download mystem here: https://tech.yandex.ru/mystem/ and you can find its documentation here: https://tech.yandex.ru/mystem/doc/index-docpage/. You don't have to install mystem, just download it to your computer. To run mystem open the Terminal (Mac) or the command line (Windows). In Terminal type: `$ mystem textfile newtextfile`: *mystem* will parse the text in *textfile* into a new file that it creates automatically *newtextfile*. If it doesn't work include the path. In cmd type: `>C:\mystem.exe C:\textfile.txt C:\newtextfile.txt`, if the text file and mystem are saved on C.
 
 Look through the documentation and play!
 
