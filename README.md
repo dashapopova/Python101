@@ -91,10 +91,12 @@ Sut, 12.10 -- 15.00, room 504
     <tr>
     <td>20.10<br>
       3 slots</td>
-    <td>Final project presentations</td>
+    <td><a href="./MystemPython.ipynb">Mystem in Python</a><br>
+      <a href="./CFGs.ipynb">Context-free Grammars in Python</a><br>
+      Final project presentations</td>
     <td></td>
     <td>Final project is due:triumph:</td>
-    <td></td>
+    <td><a href="./pyling.pdf">Textbook for linguists</a></td>
   </tr>
 </table>
 
