@@ -96,7 +96,7 @@ Sut, 12.10 -- 15.00, room 504
       Final project presentations</td>
     <td></td>
     <td>Final project is due:triumph:</td>
-    <td><a href="./pyling.pdf">Textbook for linguists</a></td>
+    <td></td>
   </tr>
 </table>
 
