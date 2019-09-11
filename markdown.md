@@ -141,6 +141,7 @@ For exmaple:
 
 #### 3. Where can I use Markdown?
 
+* Jupyter Notebook
 * GitHub
 * Telegram
 * Tumblr
